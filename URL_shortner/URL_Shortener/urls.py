@@ -22,4 +22,3 @@ urlpatterns = [
     path("",include('Shortener.urls',namespace='short')),
 
 ]
-
